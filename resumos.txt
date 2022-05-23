@@ -1,0 +1,29 @@
+O que é Controle de versão?
+- Gerencia o código-fonte;
+- Registra todas alterações de código;
+- Criar versões de um software estágios; 
+- Cada membro pode trabalhar em uma versão diferente (branch);
+- Ferramentas: git e SVN.
+
+O que é Git?
+- Sistema de versionamento mais utilizando no mundo;
+- Baseado em repositórios, contem todas as versoes do codigo e as cópias dos devs;
+- Alto desempenho;
+- Protegidos como criptografia;
+
+O que é um repositório?
+- É onde o código vai ser armazenado;
+- Cada projeto em um repo;
+- Gerenciar repos em: GitHub / BitBucket;
+- Cada dev pode baixar o repo e criar sua versão;
+
+O que é um GitHub?
+- Serviço para gerenciar repos gratuitamente;
+
+====//=====
+
+Inicializa o git
+git init
+
+Status do git do projeto
+git status
