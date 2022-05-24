@@ -20,10 +20,5 @@ O que é um repositório?
 O que é um GitHub?
 - Serviço para gerenciar repos gratuitamente;
 
-====//=====
-
-Inicializa o git
-git init
-
-Status do git do projeto
-git status
+Como verificar mudanças do projeto?
+- Código: " git status ";
