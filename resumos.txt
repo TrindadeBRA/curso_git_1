@@ -82,3 +82,6 @@ Deletar Branches!
 
 Mudando de branch!
 - Código: " git checkout -b <nome>";
+
+Unindo branches!
+- git merge <nome>
