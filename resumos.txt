@@ -42,3 +42,5 @@ Recebendo as mudanças!
 Clonar repositório!
 - Código: " git clone https://github.com/TrindadeBRA/curso_git_1.git ." // O Ponto no final, é para clonar no diretorio que está;
 
+Removendo / Deletar arquivos do repo!
+- Código: " git rm nomedoarquivo.txt ";
