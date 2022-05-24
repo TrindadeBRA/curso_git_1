@@ -23,6 +23,9 @@ O que é um GitHub?
 OBS: "Q ou CTRL/C" devolve o terminal! 
 OBS: "clear" limpa o terminal! 
 
+Como inicializar o git?
+- Código: " git init ";
+
 Como verificar mudanças do projeto?
 - Código: " git status ";
 
