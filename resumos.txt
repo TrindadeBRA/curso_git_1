@@ -84,4 +84,11 @@ Mudando de branch!
 - Código: " git checkout -b <nome>";
 
 Unindo branches!
-- git merge <nome>
+- Código: "git merge <nome>"
+
+Stash!
+- Joga o codigo novo da branch no "lixo";
+- Código: " git stash ";
+
+Recuperando stash!
+- Código: " git stash list ";
