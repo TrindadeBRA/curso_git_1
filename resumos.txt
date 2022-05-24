@@ -44,3 +44,11 @@ Clonar repositório!
 
 Removendo / Deletar arquivos do repo!
 - Código: " git rm nomedoarquivo.txt ";
+
+Histórico de alterações!
+- Código: " git log ";
+
+OBS: "Q ou CTRL/C" devolve o terminal! 
+
+Mover ou Renomear arquivos!
+- Código: " git mv ";
