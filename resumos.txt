@@ -20,6 +20,9 @@ O que é um repositório?
 O que é um GitHub?
 - Serviço para gerenciar repos gratuitamente;
 
+OBS: "Q ou CTRL/C" devolve o terminal! 
+OBS: "clear" limpa o terminal! 
+
 Como verificar mudanças do projeto?
 - Código: " git status ";
 
@@ -48,11 +51,12 @@ Removendo / Deletar arquivos do repo!
 Histórico de alterações!
 - Código: " git log ";
 
-OBS: "Q ou CTRL/C" devolve o terminal! 
-OBS: "clear" limpa o terminal! 
 
 Mover ou Renomear arquivos!
 - Código: " git mv ";
 
 Desfazendo alterações!
 - Código: " git checkout nomedoarquivo.txt ";
+
+Ignorando arquivos!
+- .gitignore
