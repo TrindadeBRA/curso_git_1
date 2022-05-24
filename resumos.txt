@@ -49,6 +49,10 @@ Histórico de alterações!
 - Código: " git log ";
 
 OBS: "Q ou CTRL/C" devolve o terminal! 
+OBS: "clear" limpa o terminal! 
 
 Mover ou Renomear arquivos!
 - Código: " git mv ";
+
+Desfazendo alterações!
+- Código: " git checkout ";
