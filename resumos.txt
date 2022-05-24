@@ -83,7 +83,7 @@ Deletar Branches!
 Mudando de branch!
 - Código: " git checkout -b <nome>";
 
-Unindo branches!
+Unindo branches! MERGE
 - Código: "git merge <nome>"
 
 Usando Stash!
@@ -104,3 +104,5 @@ Utilizando tags!
 - Serve como checkpoint;
 - Código: " git tag -a <nome> -m <msg> ";
 
+Recebendo alterações!
+- Código: " git pull ";
