@@ -54,7 +54,6 @@ Removendo / Deletar arquivos do repo!
 Histórico de alterações!
 - Código: " git log ";
 
-
 Mover ou Renomear arquivos!
 - Código: " git mv ";
 
@@ -66,3 +65,20 @@ Ignorando arquivos!
 
 Desfazendo as alterações!
 - Código: " git reset ";
+
+
+Branches!
+- Forma que o git separa as versões dos projetos;
+- Cada nova feature de um projeto fica em um branch separado;
+- Depois de finalizar as feature, as branchs devem ser unidas (merge);
+
+Criando Branches!
+- Código: " git branch "; // Visualizar branchs
+- Código: " git branch <nome> ";
+
+Deletar Branches!
+- Código: " -d ou --delete <nome>";
+- Normalmente não é deletado um branch;
+
+Mudando de branch!
+- Código: " git checkout -b <nome>";
