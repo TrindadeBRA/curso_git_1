@@ -55,4 +55,4 @@ Mover ou Renomear arquivos!
 - Código: " git mv ";
 
 Desfazendo alterações!
-- Código: " git checkout ";
+- Código: " git checkout nomedoarquivo.txt ";
