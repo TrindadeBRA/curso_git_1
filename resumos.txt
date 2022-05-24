@@ -22,3 +22,23 @@ O que é um GitHub?
 
 Como verificar mudanças do projeto?
 - Código: " git status ";
+
+Adicionando arquivos no projeto!
+- Código: " git add ";
+- Código: " git add . " (Adiciona todos os arquivos no projeto);
+
+Salvando alterações do projeto!
+- Código: " git commit ";
+- Código: " git commit -m "Mensagem" " // Para poder commitar com mensagem ;
+- Código: " git commit -a " // Para poder commitar todos os arquivos ;
+- Código: " git commit arquivo.txt -m "Enviando um arquivo de texto" " // Para poder commitar apenas um arquivo com mensagem ;
+
+Enviando as alterações ao repo remoto!
+- Código: " git push "; //Empurrar alterações
+
+Recebendo as mudanças!
+- Código: " git pull "; //puxar alterações
+
+Clonar repositório!
+- Código: " git clone ";
+
