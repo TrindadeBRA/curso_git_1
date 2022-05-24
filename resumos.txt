@@ -40,5 +40,5 @@ Recebendo as mudanças!
 - Código: " git pull "; //puxar alterações
 
 Clonar repositório!
-- Código: " git clone ";
+- Código: " git clone https://github.com/TrindadeBRA/curso_git_1.git ." // O Ponto no final, é para clonar no diretorio que está;
 
