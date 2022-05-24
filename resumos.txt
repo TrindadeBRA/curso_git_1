@@ -86,9 +86,21 @@ Mudando de branch!
 Unindo branches!
 - Código: "git merge <nome>"
 
-Stash!
+Usando Stash!
 - Joga o codigo novo da branch no "lixo";
 - Código: " git stash ";
 
 Recuperando stash!
-- Código: " git stash list ";
+- Código: " git stash list "; // lista stashs
+- Código: " git stash list show "; // lista stashs e lista alteracoes
+- Código: " git stash list <numero> "; // resgata
+
+Removendo as stash!
+- Código: " git stash clear "; // limpa todas stachs
+- Código: " git stash drop <numero> "; // limpa stachs especifica
+
+Utilizando tags!
+- Criar tags nas branchs; 
+- Serve como checkpoint;
+- Código: " git tag -a <nome> -m <msg> ";
+
