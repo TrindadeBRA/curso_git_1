@@ -60,3 +60,6 @@ Desfazendo alterações!
 
 Ignorando arquivos!
 - .gitignore
+
+Desfazendo as alterações!
+- Código: " git reset ";
